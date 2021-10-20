@@ -301,4 +301,7 @@ form input::placeholder{
         display: inline-flex;
         width: fit-content;
     }
+    #title h1{
+        font-size: 5rem;
+    }
 }
